@@ -1,0 +1,15 @@
+Lớp: CS529.L11.KHCL
+Thành viên:
+	- Nhóm trưởng:	Lê Quang Hưng		(18520797)
+	- Thành viên:	Hoàng Đức Minh		(18521097)
+	- Thành viên:	Phạm Duy Giác Nguyên	(18521162)
+Tóm tắt nội dung buổi học ngày 09/09/2020
+1. Sinh viên tự giới thiệu ở post của thầy trên classroom.
+2. Sinh viên lập nhóm gồm 3 người, điền thông tin nhóm và giới thiệu nhóm.
+3. Các nhóm đề xuất ý tưởng cho một ứng dụng của máy tính.
+	- Ý tưởng của nhóm: 
+				Bài toán: Phát hiện trộm cắp trong cửa hàng
+				1. Input: video từ camera quan sát trong cửa hàng.
+				2. Output: đoạn video ghi lại hành động lấy cắp.
+				3. Ý nghĩa: quản lý an ninh, phát hiện bất thường ở cửa hàng, trung tâm mua sắm.
+				4. Các kiến thức cần trang bị: xử lý ảnh căn bản, object detection, object tracking.
